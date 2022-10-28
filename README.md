@@ -1,5 +1,5 @@
 # CurlPayload
-a dumb linux payload that uses social engineering to run commands on a unsuspecting linux user
+the code only runs if a user curls the script twice. when visiting via a browser the code does not run 
 
 
 
